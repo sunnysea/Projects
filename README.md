@@ -17,4 +17,4 @@ https://colab.research.google.com/drive/1K2gcg2ROOIGGHuDYoc9UPCsLpphL5Tg5?usp=sh
 Текст [дипломной работы](https://www.hse.ru/edu/vkr/635733839) представлен на сайте ВШЭ.
 
 
-Совместный проект с другими ребятами для VK "Генерация анекдотов": https://github.com/BlessedTatonka/russian_joke_generation/tree/main . Презентация проекта: https://docs.google.com/presentation/d/1jOHBbPaVNZ9kwc-QFLyTTJF_dtv4fgVB/edit?usp=sharing&ouid=117888058767342054998&rtpof=true&sd=true 
+Совместный проект с другими ребятами для VK "Генерация анекдотов": https://github.com/BlessedTatonka/russian_joke_generation/tree/main . [Презентация проекта](https://docs.google.com/presentation/d/1jOHBbPaVNZ9kwc-QFLyTTJF_dtv4fgVB/edit?usp=sharing&ouid=117888058767342054998&rtpof=true&sd=true)
