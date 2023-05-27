@@ -15,3 +15,6 @@ https://colab.research.google.com/drive/172dK_56brSRfA9UYXKVZduEwc0s_yphK?usp=sh
 https://colab.research.google.com/drive/1K2gcg2ROOIGGHuDYoc9UPCsLpphL5Tg5?usp=sharing 
 
 Текст [дипломной работы](https://www.hse.ru/edu/vkr/635733839) представлен на сайте ВШЭ.
+
+
+Совместный проект с другими ребятами для VK "Генерация анекдотов": https://github.com/BlessedTatonka/russian_joke_generation/tree/main 
